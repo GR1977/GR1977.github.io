@@ -4,3 +4,6 @@ James Bond bzw. 007 ist ein britischer Agent mit der Lizenz zum Töten, der für
 * Fährt gerne schnelle Autos und nutzter Spielzeug von Q
 * Liebt Frauen und Martini
 * Kann sehr charmant, aber auch tödlich sein
+
+As James Bond said:
+> Geschüttelt, nicht gerührt.
