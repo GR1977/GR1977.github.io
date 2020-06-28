@@ -7,3 +7,5 @@ James Bond bzw. 007 ist ein britischer Agent mit der Lizenz zum Töten, der für
 
 As James Bond said:
 > Geschüttelt, nicht gerührt.
+
+<img src="https://pngimg.com/uploads/james_bond/james_bond_PNG24.png"/>
